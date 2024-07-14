@@ -1,9 +1,10 @@
 ## Clash Exporter
 
-This is an exporter for Clash, for used by the [Prometheus](https://prometheus.io/) and loki to monitor clash network traffic.
-该项目融合了[zxh326/clash-exporter](https://github.com/zxh326/clash-exporter)与[clash-tracing_by_Dreamacro](https://github.com/zcbxxx1/clash-tracing_by_Dreamacro)两位大佬的作品并在OpenClash上运行良好（关于OpenClash的P核 即tun核如何开启tracing参考)    
-[https://github.com/vernesong/OpenClash/issues/2154](https://github.com/vernesong/OpenClash/issues/2154)
-
+This is an exporter for Clash, for used by the [Prometheus](https://prometheus.io/) and loki to monitor clash network traffic.    
+该项目融合了[zxh326/clash-exporter](https://github.com/zxh326/clash-exporter)与[clash-tracing_by_Dreamacro](https://github.com/zcbxxx1/clash-tracing_by_Dreamacro)两位大佬的作品并在OpenClash上运行良好     
+（关于OpenClash的P核 即tun核如何开启tracing参考) [https://github.com/vernesong/OpenClash/issues/2154](https://github.com/vernesong/OpenClash/issues/2154)
+            
+      
 ![图片](https://github.com/user-attachments/assets/79c9b5bd-ddc5-447f-9fc0-12ef27e25435)
 ![图片](https://github.com/user-attachments/assets/efa7d1ba-4672-4f9a-b1de-10ce7c869162)
 ![图片](https://github.com/user-attachments/assets/48caff30-3c32-4637-ac04-f11ac57b7e7c)
